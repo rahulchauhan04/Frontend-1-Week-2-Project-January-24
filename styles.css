@@ -1,0 +1,638 @@
+.home {
+    background-color: #1f1f1f;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home .div {
+    background-color: #1f1f1f;
+    overflow: hidden;
+    width: 1440px;
+    height: 2203px;
+    position: relative;
+}
+
+.home .overlap {
+    position: absolute;
+    width: 1331px;
+    height: 596px;
+    top: 137px;
+    left: 55px;
+    background-image: url(./assets/Rectangle\ 1\ \(1\).png);
+    background-size: 100% 100%;
+}
+
+.home .group {
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    top: 156px;
+    left: 38px;
+}
+
+.home .overlap-group {
+    position: absolute;
+    width: 1112px;
+    height: 291px;
+    top: 94px;
+    left: 169px;
+}
+
+.home .img {
+    position: absolute;
+    width: 291px;
+    height: 291px;
+    top: 0;
+    left: 821px;
+}
+
+.home .text-wrapper {
+    position: absolute;
+    width: 846px;
+    top: 90px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .p {
+    position: absolute;
+    width: 846px;
+    top: 224px;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-2 {
+    position: absolute;
+    width: 846px;
+    top: 452px;
+    left: 169px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-group-wrapper {
+    position: absolute;
+    width: 262px;
+    height: 107px;
+    top: 429px;
+    left: 1015px;
+}
+
+.home .div-wrapper {
+    position: relative;
+    width: 260px;
+    height: 107px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .text-wrapper-3 {
+    width: 205px;
+    top: 27px;
+    left: 36px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 35px;
+    position: absolute;
+    color: #262626;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-4 {
+    position: absolute;
+    width: 335px;
+    top: 40px;
+    left: 50px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .group-2 {
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    top: 424px;
+    left: 38px;
+}
+
+.home .group-3 {
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    top: 290px;
+    left: 38px;
+}
+
+.home .forent {
+    position: absolute;
+    width: 154px;
+    height: 34px;
+    top: 46px;
+    left: 62px;
+}
+
+.home .text-wrapper-5 {
+    position: absolute;
+    width: 453px;
+    top: 812px;
+    left: 105px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-2 {
+    position: absolute;
+    width: 434px;
+    height: 53px;
+    top: 33px;
+    left: 958px;
+}
+
+.home .group-4 {
+    position: absolute;
+    width: 434px;
+    height: 53px;
+    top: 0;
+    left: 0;
+}
+
+.home .group-5 {
+    position: absolute;
+    width: 114px;
+    height: 53px;
+    top: 0;
+    left: 322px;
+}
+
+.home .overlap-group-2 {
+    position: relative;
+    width: 112px;
+    height: 53px;
+    background-color: #262626;
+    border-radius: 15px;
+}
+
+.home .text-wrapper-6 {
+    position: absolute;
+    width: 52px;
+    top: 10px;
+    left: 30px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-wrapper {
+    position: absolute;
+    width: 136px;
+    height: 53px;
+    top: 0;
+    left: 0;
+}
+
+.home .overlap-3 {
+    position: relative;
+    width: 134px;
+    height: 53px;
+    background-color: #262626;
+    border-radius: 15px;
+}
+
+.home .text-wrapper-7 {
+    position: absolute;
+    width: 60px;
+    top: 10px;
+    left: 37px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .rectangle {
+    width: 131px;
+    height: 53px;
+    left: 167px;
+    border-radius: 15px;
+    position: absolute;
+    top: 0;
+    background-color: #262626;
+}
+
+.home .text-wrapper-8 {
+    position: absolute;
+    width: 82px;
+    top: 9px;
+    left: 191px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-4 {
+    position: absolute;
+    width: 597px;
+    height: 53px;
+    top: 33px;
+    left: 319px;
+    background-image: url(./assets/Rectangle\ 2.png);
+    background-size: 100% 100%;
+}
+
+.home .text-wrapper-9 {
+    position: absolute;
+    top: 13px;
+    left: 28px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff33;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .overlap-5 {
+    position: absolute;
+    width: 346px;
+    height: 391px;
+    top: 965px;
+    left: 119px;
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #262626;
+}
+
+.home .text-wrapper-10 {
+    position: absolute;
+    width: 269px;
+    top: 32px;
+    left: 24px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .group-6 {
+    position: absolute;
+    width: 171px;
+    height: 58px;
+    top: 310px;
+    left: 156px;
+}
+
+.home .overlap-6 {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .text-wrapper-11 {
+    width: 98px;
+    top: 18px;
+    left: 39px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 15px;
+    position: absolute;
+    color: #262626;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-12 {
+    width: 283px;
+    top: 85px;
+    left: 24px;
+    font-size: 15px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffcc;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .group-7 {
+    position: absolute;
+    width: 350px;
+    height: 391px;
+    top: 965px;
+    left: 532px;
+}
+
+.home .overlap-7 {
+    position: relative;
+    width: 346px;
+    height: 391px;
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color: #262626;
+}
+
+.home .text-wrapper-13 {
+    position: absolute;
+    width: 301px;
+    top: 33px;
+    left: 24px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-group-3 {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .text-wrapper-14 {
+    position: absolute;
+    width: 112px;
+    top: 18px;
+    left: 36px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #262626;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-15 {
+    position: absolute;
+    width: 283px;
+    top: 86px;
+    left: 24px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffcc;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .group-8 {
+    position: absolute;
+    width: 350px;
+    height: 391px;
+    top: 1418px;
+    left: 532px;
+}
+
+.home .overlap-group-4 {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .group-9 {
+    position: absolute;
+    width: 350px;
+    height: 391px;
+    top: 965px;
+    left: 944px;
+}
+
+.home .text-wrapper-16 {
+    position: absolute;
+    width: 269px;
+    top: 33px;
+    left: 24px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #c4c4c4;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .overlap-group-5 {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .text-wrapper-17 {
+    width: 112px;
+    top: 18px;
+    left: 40px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 15px;
+    position: absolute;
+    color: #262626;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .group-10 {
+    position: absolute;
+    width: 350px;
+    height: 391px;
+    top: 1418px;
+    left: 944px;
+}
+
+.home .overlap-group-6 {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .group-11 {
+    position: absolute;
+    width: 350px;
+    height: 391px;
+    top: 1418px;
+    left: 127px;
+}
+
+.home .know-more-wrapper {
+    position: relative;
+    width: 169px;
+    height: 58px;
+    background-image: url(./assets/Rectangle\ 9.png);
+    background-size: 100% 100%;
+}
+
+.home .know-more {
+    width: 112px;
+    top: 18px;
+    left: 39px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 15px;
+    position: absolute;
+    color: #262626;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .span {
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #262626;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.home .text-wrapper-18 {
+    font-size: 18px;
+}
+
+.home .group-12 {
+    position: absolute;
+    width: 1555px;
+    height: 283px;
+    top: 1885px;
+    left: 33px;
+}
+
+.home .overlap-8 {
+    position: relative;
+    width: 1543px;
+    height: 283px;
+}
+
+.home .rectangle-2 {
+    width: 1346px;
+    height: 283px;
+    left: 0;
+    border-radius: 30px;
+    position: absolute;
+    top: 0;
+    background-color: #262626;
+}
+
+.home .text-wrapper-19 {
+    width: 513px;
+    top: 100px;
+    left: 43px;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffffcc;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .home-search-explore {
+    position: absolute;
+    width: 513px;
+    top: 93px;
+    left: 668px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffffcc;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 35px;
+}
+
+.home .instagram-facebook {
+    position: absolute;
+    width: 513px;
+    top: 84px;
+    left: 1030px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffffcc;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 35px;
+}
+
+.home .text-wrapper-20 {
+    position: absolute;
+    width: 335px;
+    top: 25px;
+    left: 43px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.home .text-wrapper-21 {
+    position: absolute;
+    width: 335px;
+    top: 35px;
+    left: 668px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.home .text-wrapper-22 {
+    position: absolute;
+    width: 335px;
+    top: 31px;
+    left: 1026px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
